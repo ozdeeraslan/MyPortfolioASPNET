@@ -29,5 +29,7 @@ namespace MyPortfolioAspNet.DAL.Context
 
 		public DbSet<Testimonial> Testimonials { get; set; }
 
+        public DbSet<ToDoList> ToDoLists { get; set; }
+
 	}
 }
