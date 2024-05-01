@@ -14,3 +14,5 @@ CRUD operations are also performed from the admin dashboard panel.
 - CSS, 
 - Bootstrap, 
 - Javascript
+
+  ![image](https://github.com/ozdeeraslan/MyPortfolioAspNet/assets/146100790/dcdab2fe-cf40-4d34-b04a-a144241c4515)
