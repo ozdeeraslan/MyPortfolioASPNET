@@ -1,4 +1,4 @@
-﻿# MyPortfolio
+# MyPortfolio
 
 This portfolio project is an MVC project prepared with ASP .NET Core 8.0.
 
@@ -14,4 +14,3 @@ CRUD operations are also performed from the admin dashboard panel.
 - CSS, 
 - Bootstrap, 
 - Javascript
-
